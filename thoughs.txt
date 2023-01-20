@@ -1,0 +1,18 @@
+// Used this for planning the project
+
+we have to create 
+
+Todo 
+
+model = title : string, tasks [string]
+
+createTodoController
+getTodosController
+getTodoController
+deleteTodoController
+createTaskTodoController
+deleteTaskTodoController
+editTodoController
+editTaskController
+searchTodoController
+searchTodoController
